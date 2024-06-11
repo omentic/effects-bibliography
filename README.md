@@ -813,6 +813,10 @@ in various programming languages.
   by Niki Vazou and Daan Leijen  
   ([pdf](http://goto.ucsd.edu/~nvazou/koka/padl16.pdf))
 
+* **Algebraic Effects for Functional Programming** (MSR Technical Report)
+  by Daan Leijen
+  ([pdf](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/algeff-tr-2016-v2.pdf))
+
 ### 2015
 
 * **Algebraic Effects, Linearity, and Quantum Programming Languages** (POPL 2015)  
